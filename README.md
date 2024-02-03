@@ -18,7 +18,7 @@ Keyphrase extraction plays a vital role in understanding the core concepts and k
 To get started with SciPhraseMine, follow these steps:
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/SciPhraseMine.git
+git clone https://github.com/namm9an/SciPhraseMine.git
 
 2. Install the required dependencies: pip install -r requirements.txt
 3. 3. Run the application and start extracting keyphrases from your scientific articles!
