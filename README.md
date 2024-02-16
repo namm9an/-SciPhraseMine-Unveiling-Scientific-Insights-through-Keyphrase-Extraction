@@ -1,4 +1,4 @@
- Keyphrase Extraction using NLP
+## Keyphrase Extraction using NLP
 
  This project focuses on the Natural Language Processing (NLP) task of keyphrase extraction from scientific papers. The goal is to automatically identify and extract significant words or terms from scientific texts to uncover valuable insights.
 
