@@ -1,6 +1,6 @@
-# SciPhraseMine: Unveiling Scientific Insights through Keyphrase Extraction
+ Keyphrase Extraction using NLP
 
-Welcome to SciPhraseMine! This project focuses on the Natural Language Processing (NLP) task of keyphrase extraction from scientific papers. The goal is to automatically identify and extract significant words or terms from scientific texts to uncover valuable insights.
+ This project focuses on the Natural Language Processing (NLP) task of keyphrase extraction from scientific papers. The goal is to automatically identify and extract significant words or terms from scientific texts to uncover valuable insights.
 
 ## Overview
 
@@ -15,7 +15,7 @@ Keyphrase extraction plays a vital role in understanding the core concepts and k
 
 ## Getting Started
 
-To get started with SciPhraseMine, follow these steps:
+To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 git clone https://github.com/namm9an/SciPhraseMine.git
@@ -25,4 +25,4 @@ git clone https://github.com/namm9an/SciPhraseMine.git
 
 ## Contribution
 
-Contributions to SciPhraseMine are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Together, we can enhance the capabilities of SciPhraseMine and make it even more powerful for scientific analysis.
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request. Together, we can enhance the capabilities of SciPhraseMine and make it even more powerful for scientific analysis.
